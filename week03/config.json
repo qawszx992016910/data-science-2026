@@ -1,0 +1,6 @@
+{
+  "project_name": "My Supabase Study",
+  "region": "ap-northeast-1",
+  "features": ["Authentication", "PostgreSQL", "Edge Functions", "Realtime"],
+  "status": "local-linked"
+}
